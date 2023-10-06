@@ -1,9 +1,9 @@
 ### vari.sh
 
-📚 MSc. Telecommunications Engineering  
-🔴 Red Teamer  
-📱 Into Mobile Pentesting  
-🥁 Drummer  
+📚 MSc. Telecommunications Engineering    
+🔴 Red Teamer    
+📱 Into Mobile Pentesting    
+🥁 Drummer    
 
 <!--
 **vari-sh/vari-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
