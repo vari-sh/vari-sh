@@ -1,4 +1,4 @@
-### vari.sh
+### ☠️ vari.sh ☠️
 
 🎓 MSc. Telecommunications Engineering    
 🔴 Red Teamer    
