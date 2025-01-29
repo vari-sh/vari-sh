@@ -3,7 +3,7 @@
 🎓 MSc. Telecommunications Engineering </br>
 🔴 Red Teamer </br>
 🐚 Into ShellCoding </br>
-📱 Into Mobile Pentesting  </br>   
+📱 Into Mobile Pentesting </br>   
 🥁 Drummer    
 
 <!--
