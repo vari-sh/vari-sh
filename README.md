@@ -1,7 +1,8 @@
 ### ☠️ vari.sh ☠️
 
 🎓 MSc. Telecommunications Engineering    
-🔴 Red Teamer    
+🔴 Red Teamer
+🐚 Into ShellCoding
 📱 Into Mobile Pentesting    
 🥁 Drummer    
 
