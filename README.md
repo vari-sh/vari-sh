@@ -1,9 +1,9 @@
 ### ☠️ vari.sh ☠️
 
-🎓 MSc. Telecommunications Engineering    
-🔴 Red Teamer
-🐚 Into ShellCoding
-📱 Into Mobile Pentesting    
+🎓 MSc. Telecommunications Engineering </br>
+🔴 Red Teamer </br>
+🐚 Into ShellCoding </br>
+📱 Into Mobile Pentesting  </br>   
 🥁 Drummer    
 
 <!--
