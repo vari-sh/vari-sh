@@ -13,7 +13,7 @@
 
 📜 **RedTeamGrimoire:** forbidden collection of Red Team sorcery
 
-✨ **myZshrc:** how I customize my shell
+✨ **myZshrc:** how I customized my shell
 
 💉 **ipaFridaInjector:** script to inject Frida server in an iOS application
 
