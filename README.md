@@ -1,4 +1,4 @@
-### 🔥📜🧙‍♂️ vari.sh 🧙‍♂️📜🔥
+# 🔥📜🧙‍♂️ vari.sh 🧙‍♂️📜🔥
 
 📖 MSc. Telecommunications Engineering
 
@@ -7,6 +7,18 @@
 🐚 Into ShellCoding
 
 🥁 Drummer    
+
+## 🔮 Content 🔮
+### Public repos:
+
+📜 **RedTeamGrimoire:** forbidden collection of Red Team sorcery
+
+✨ **my_zshrc:** how I customize my shell
+
+💉 **ipa_Frida_injector:** script to inject Frida server in an iOS application
+
+### Private repos:
+📕 **BookOfShadows:** contains most of my knowledge about cybersecurity and exploits
 
 <!--
 **vari-sh/vari-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
