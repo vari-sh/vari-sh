@@ -13,9 +13,9 @@
 
 📜 **RedTeamGrimoire:** forbidden collection of Red Team sorcery
 
-✨ **my_zshrc:** how I customize my shell
+✨ **myZshrc:** how I customize my shell
 
-💉 **ipa_Frida_injector:** script to inject Frida server in an iOS application
+💉 **ipaFridaInjector:** script to inject Frida server in an iOS application
 
 ### Private repos:
 📕 **BookOfShadows:** contains most of my knowledge about cybersecurity and exploits
