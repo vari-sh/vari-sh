@@ -1,9 +1,11 @@
-### 🦄 vari.sh 🦄
+### 🔥📜🧙‍♂️ vari.sh 🧙‍♂️📜🔥
 
-🎓 MSc. Telecommunications Engineering </br>
-🔴 Red Teamer </br>
-🐚 Into ShellCoding </br>
-📱 Into Mobile Pentesting </br>
+📖 MSc. Telecommunications Engineering
+
+🔴 Red Teamer
+
+🐚 Into ShellCoding
+
 🥁 Drummer    
 
 <!--
