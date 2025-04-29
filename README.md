@@ -1,5 +1,7 @@
 # 🔥📜🧙‍♂️ vari.sh 🧙‍♂️📜🔥
 
+Contacts: [LinkedIn](https://www.linkedin.com/in/andrea-varischio-6b566b165/)
+
 📖 MSc. Telecommunications Engineering
 
 🔴 Red Teamer
