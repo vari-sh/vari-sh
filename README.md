@@ -8,7 +8,7 @@ Support: [BuyMeACoffee](https://buymeacoffee.com/vari.sh)
 
 🔴 Red Teamer
 
-🐚 Into ShellCoding
+🐚 Into ShellCoding and MalDev
 
 🥁 Drummer    
 
